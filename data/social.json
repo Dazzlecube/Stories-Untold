@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/DanAndrieux",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/dandrieux",
+      "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "google scholar",
+      "url": "https://scholar.google.com/citations?user=nEeF9_YAAAAJ&hl=en",
+      "image": "images/social/google-scholar-50.svg"
+    },
+    {
+      "name": "rss feed",
+      "url": "http://localhost:1313/index.xml",
+      "image": "images/social/rssicon.svg"
+    }
+  ]
+}
