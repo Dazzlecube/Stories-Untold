@@ -1,0 +1,71 @@
+baseURL = "https://davidandrieux.com/"
+languageCode = "en-us"
+theme = "hugo-winston-theme"
+themesDir = "themes"
+title = "Stories untold"
+paginate = 5
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+rsslimit = 10
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  google_analytics_id = ""
+  twitter_handle = "@DanAndrieux"
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = false
+  showPostsOnHomepage = false
+  addDot = true
+  addFrame = true
+  highlightColor = "#9200ED"
+  baseColor = "#ffffff"
+  baseOffsetColor = "#eaeaea"
+  headingColor = "#1c1b1d"
+  textColor = "#4e5157"
+  dotColor = "#5AEB00"
+ 
+#option 1:  FFA900, 0055FF
+#option 2: 7b16ff, 99FF14/14FF7A/4BFF14
+#option 3: 9E00FF, 62FF00
+#option 4: 9200ED, 5AEB00
+
+#https://coolors.co/ffb600
+#FFA836
+  
+[privacy]
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
+  [privacy.vimeo]
+    enableDNT = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+
+
+# markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = "Themes"
+    identifier = "tags"
+    weight = 300
+    url = "/tags/"
