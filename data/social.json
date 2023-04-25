@@ -14,11 +14,6 @@
       "name": "google scholar",
       "url": "https://scholar.google.com/citations?user=nEeF9_YAAAAJ&hl=en",
       "image": "images/social/google-scholar-50.svg"
-    },
-    {
-      "name": "rss feed",
-      "url": "https://davidandrieux.com/index.xml",
-      "image": "images/social/rssicon.svg"
     }
   ]
 }
