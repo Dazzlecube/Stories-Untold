@@ -94,7 +94,7 @@ ul {
       margin-bottom: 10px;
       margin-left: 0;
       @include breakpoint('small') {
-        margin-left: 20px;
+        margin-left: 0px;
       }
     }
     @include breakpoint('small') {
