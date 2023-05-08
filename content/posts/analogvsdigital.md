@@ -18,7 +18,7 @@ $$
 with the initial conditions $u(x, y, z, 0) = f(x, y, z)$ and $\partial u/ \partial t (x,y,z,0) = 0$.
 The wave equation arises in various fields like acoustics, electromagnetism and fluid dynamics. Solutions of the wave equation travel with finite velocity (here made equal to one).
 
-The question is now: can computable initial conditions f give rise to non-computable solutions? Remarkably the answer is “yes,” and two quite different types of non-computability can occur.
+Now, can computable initial conditions $f$ give rise to non-computable solutions? Remarkably the answer is “yes,” and two quite different types of non-computability can occur.
 
 In the first case, the solution $u(x, y, z, t)$ takes a non-computable real value at a computable point in space-time. More precisely, “there exists a computable – and hence continuous function $f (x, y, z)$ such that $u(x, y, z, t)$ is continuous but not computable, and furthermore the value $u(0, 0, 0, 1)$ is a non-computable real number.”
  
@@ -37,9 +37,9 @@ Another implication is that analog devices are - at least in principle - more po
 The difference between analog and digital also ties back to a discussion by Freeman Dyson on the nature of life. Dyson argued that, under very general conditions, analog life has a better chance of surviving than digital life. Perhaps this implies that some very exotic forms of life like the Black Cloud, which use an analog form of information processing, will prevail when the time comes?
  
 **Further reading**
-- M. B. Pour-El and I. Richards, “A computable ordinary differential equation which possesses no computable solution“. Annals of Mathematical Logic 17, 61 (1979).
-- M. B. Pour-El and I. Richards, “The wave equation with computable initial data such that its unique solution is not computable“. Advances in Mathematics 39, 215 (1981).
-- M. B. Pour-El and I. Richards, “Computability in analysis and physics”. Springer Verlag (1989).
+- M. B. Pour-El and I. Richards, *“A computable ordinary differential equation which possesses no computable solution“*. Annals of Mathematical Logic 17, 61 (1979).
+- M. B. Pour-El and I. Richards, *“The wave equation with computable initial data such that its unique solution is not computable“*. Advances in Mathematics 39, 215 (1981).
+- M. B. Pour-El and I. Richards, *“Computability in analysis and physics”*. Springer Verlag (1989).
  
 
-[^1]: What do we mean by computability? Roughly speaking, an object is computable if it can be constructed to within any desired precision by a finite, terminating algorithm. For example, a real number $x$ is computable if it is the effective limit of a computable sequence of rationals $r_n$, i.e. there is a recursive function $e(n)$ such that $k \geq e(n)$ implies $|x-rk | \leq 10^{-n} $. Thus the number $\pi$ is computable, since there exist finite recipes for computing it. When more precision is desired the computation may take longer, but the recipe itself does not change. Computable functions are defined similarly.
+[^1]: What do we mean by computability? Roughly speaking, an object is computable if it can be constructed to within any desired precision by a finite, terminating algorithm. For example, a real number $x$ is computable if it is the effective limit of a computable sequence of rationals $r_n$, i.e. there is a recursive function $e(n)$ such that $k \geq e(n)$ implies $|x-r_k| \leq 10^{-n} $. Thus the number $\pi$ is computable, since there exist finite recipes for computing it. When more precision is desired the computation may take longer, but the recipe itself does not change. Computable functions are defined similarly.
