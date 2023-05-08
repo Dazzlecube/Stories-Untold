@@ -1,7 +1,7 @@
 ---
 title: Three types of decisions
 date: 2023-03-31
-description: "There's really only three types of decisions. Understand which type of decision you're facing and act accordingly."
+description: "There are really only three types of decisions. Understand which type of decision you're facing and act accordingly."
 tags:
    - tactics
 ---
