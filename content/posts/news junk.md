@@ -23,7 +23,7 @@ Inflation](https://rooseveltinstitute.org/wp-content/uploads/2022/12/RI_Causesof
 
 None of these come from workers having too much money. And, on the contrary, executives uses real crises such as the Ukraine war as ready-made excuses for raising prices and then keeping them high, i.e. **#Excuseflation**: 
 
-[How ‘Excuseflation’ Is Keeping Prices — and Corporate Profits](https://www.bloomberg.com/news/articles/2023-03-09/how-excuseflation-is-keeping-prices-and-corporate-profits-high)
+[How ‘Excuseflation’ Is Keeping Prices — and Corporate Profits - High](https://www.bloomberg.com/news/articles/2023-03-09/how-excuseflation-is-keeping-prices-and-corporate-profits-high)
 
 And this is just one example how you can get the appearance of 'knowing' without actually getting to a better understanding.
 
