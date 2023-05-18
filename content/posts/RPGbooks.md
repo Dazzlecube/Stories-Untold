@@ -1,6 +1,6 @@
 ---
-title: Not-so-short and sweet: RPG books 
-date: 2023-05-20
+title: "Not-So-Short and Sweet: RPG books" 
+date: 2023-05-18
 description: "How do you know your shiny new RPG book is actually worth reading?"
 tags:
    - designpatterns
