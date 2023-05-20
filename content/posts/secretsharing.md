@@ -41,7 +41,9 @@ By construction, these $P$ possible polynomials are equally likely, and thus the
   
 Shamir’s threshold scheme possesses several useful properties, including being:
 1. **Secure**: Less than the requisite number of shares of the secret provides no information about the secret.
+
 2. **Minimal**: The size of each piece does not exceed the size of the original data.
+
 3. **Flexible**: We can supply participants a different number of pieces according to their needs (for instance, a president can unlock the safe alone, whereas three secretaries are required together to unlock it).
  
 Note that a minimal scheme is still somewhat space inefficient: Each share of the secret is as large as the secret itself. Storing and transmitting the shares requires an amount of storage and bandwidth resources equivalent to the size of the secret times the number of shares. More space efficient schemes based on data partitioning have been devised.
