@@ -1,6 +1,6 @@
 ---
 title: Removing Attributes from RPGs
-date: 2023-05-15
+date: 2023-05-20
 description: "Attributes are one of those mechanics used across virtually all role-playing games. Yet, is the added complexity worth it?"
 tags:
    - designpatterns
