@@ -1,5 +1,5 @@
 ---
-title: Making Initiative strategic  
+title: Making Initiative Strategic  
 date: 2023-05-22
 description: "Initiative is a divisive mechanics. While you can streamline its implementation, some games managed to make Initiative strategic component of their games."
 tags:
