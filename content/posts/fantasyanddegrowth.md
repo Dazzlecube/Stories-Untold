@@ -1,7 +1,7 @@
 ---
 title: On fantasy, elves, and degrowth
 date: 2023-07-18
-description: "The fantasy genre can be seen as the opposite of bureaucratic regimes. Can fantasy also reveal some unconscious views of (de)growth?"
+description: "The fantasy genre can be seen as the opposite of bureaucratic regimes. Can fantasy also reveal some unconscious views about (de)growth?"
 tags:
    - pluralistic
 ---
@@ -9,7 +9,7 @@ tags:
 Fantasy - think Howard, Tolkien, Leibler and many others - conjures up stories of heroic adventures involving evil sorcerers, monsters, and lost civilization. 
 
 Fantasy offers a welcome escapade from our daily lives. 
-It has also been proposed that it incarnates the opposite of bureaucracies. 
+It also incarnates the opposite of bureaucracies. 
 In [The Utopia of Rules](https://davidgraeber.org/books/the-utopia-of-rules/), David Graeber argues that fantasy books act not only as an enjoyable form of escapism, but also as a reassurance that bureaucracy is actually needed (this only represent a fraction of the wealth of ideas that are presented in the book, I highly recommend it).
 
 Think about it: In all fantasy work, bureaucracies and administration are evil, or incompetent at best. 
