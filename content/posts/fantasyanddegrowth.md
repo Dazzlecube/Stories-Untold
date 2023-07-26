@@ -10,7 +10,7 @@ Fantasy - think Howard, Tolkien, Leibler and many others - conjures up stories o
 
 Fantasy offers a welcome escapade from our daily lives. 
 It also incarnates the opposite of bureaucracies. 
-In [The Utopia of Rules](https://davidgraeber.org/books/the-utopia-of-rules/), David Graeber argues that fantasy books act not only as an enjoyable form of escapism, but also as a reassurance that bureaucracy is actually needed (this only represent a fraction of the wealth of ideas that are presented in the book, I highly recommend it).
+In [The Utopia of Rules](https://davidgraeber.org/books/the-utopia-of-rules/), David Graeber argues that fantasy books act not only as an enjoyable form of escapism, but also as a reassurance that bureaucracy is actually needed (this only represents a fraction of the wealth of ideas that are presented in the book, I highly recommend it).
 
 Think about it: In all fantasy work, bureaucracies and administration are evil, or incompetent at best. 
 Fantasy is the counterpoint of the administrative restraints of our lives. 
