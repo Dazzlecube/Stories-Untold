@@ -1,7 +1,7 @@
 ---
 title: Corporates' summer are never dull
 date: 2023-08-21
-description: "Three summer weeks of corporate news, with plenty of monopolies and regulatory capture"
+description: "Three summer weeks of corporate news, with plenty of monopolies and regulatory capture going on"
 tags:
    - pluralistic
 ---
