@@ -40,7 +40,7 @@ The downside is that, even for their proponents like myself, it is difficult to 
 So, could the degrowth movement get inspiration from the fantasy litterature to make their ideas more relatable to people? 
 
 Interestingly, the presentation of fantasy elves - and thus of a degrowth or a-growth society - is mixed. 
-On the one hand, elves are described as 'superior' to mankind in many aspects, something men can aspire to. 
+On the one hand, elves are described as 'superior' beings in many aspects, something men can aspire to. 
 On the other hand, they are also characterized as living in a static or even declining society, and in somes cases even against progress and change.
 
 If valid, this litterary association suggests that the degrowth movement will need to not only appeal to the positive side of elven societies that a century of fantasy has ingrained in our collective imaginary, namely a better balance with nature and strong personal fulfillment, but also explicitly address the implicit concerns and objections of a static and less innovative society. 

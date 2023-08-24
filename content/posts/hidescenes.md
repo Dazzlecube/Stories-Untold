@@ -30,4 +30,4 @@ And that makes it all the more special and precious.
 
 Plus, these scenes bring genuine replay value.
 
-You know the adage *Show, don't tell/ *. Maybe it's time to occasionally replace it by *Hide, don't show*.
+You know the adage *Show, don't tell*. Maybe it's time to occasionally replace it by *Hide, don't show*.
