@@ -1,5 +1,5 @@
 ---
-title: On fantasy, elves, and degrowth
+title: On Fantasy, Elves, and Degrowth
 date: 2023-07-18
 description: "The fantasy genre can be seen as the opposite of bureaucratic regimes. Can fantasy also reveal some unconscious views about (de)growth?"
 tags:
