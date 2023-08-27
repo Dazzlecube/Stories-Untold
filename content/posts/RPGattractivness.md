@@ -1,7 +1,7 @@
 ---
 title: Making tRPGs Compelling Again
 date: 2023-05-23
-description: "Tabletop RPGs are too much like a box of chocolate, and not enough like a Starbucks coffee."
+description: "Tabletop RPGs are too much like a box of chocolate, and not enough like Starbucks coffees."
 tags:
    - designpatterns
 ---
