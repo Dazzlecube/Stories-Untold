@@ -9,7 +9,7 @@ tags:
 Politicians often use a simple but effective trick to pass some unpopular legislation: Doing it during summer time, i.e. at a time when journalists might not cover that news and when the public will pay less attention to it. 
 
 It's not a far strecth of the imagination that corporates would be willing to resort to the same tactic. 
-I've been on holidays for the last three weeks, and it seems my hunch was correct: There is plenty of activities that show that monopolies and regulatory capture are never far away.
+I've been on holidays for the last three weeks, and it seems my hunch was correct: There were plenty of activities showing that monopolies and regulatory capture are never far away.
 
 This post will consist of a collection of news without any fully-fledged discussion around them. 
 Here we go:
