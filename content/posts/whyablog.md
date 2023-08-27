@@ -19,7 +19,7 @@ It is a trope that ideas can be powerful. But in many cases it is more subtle th
 
 > "*Only a crisis — actual or perceived — produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable."* - Milton Friedman[^2]
 
-One of the objective of this blog is to continue lying alternative ideas around. So that when the time comes, real change can happen.
+One of the objectives of this blog is thus to continue lying alternative ideas around. So that when the time comes, real change can happen.
 
 
 [^1]: Kudos to Seth Godin for this insight. Seth has been writing a blog post daily for talmost 20 years, without missing a single day.
