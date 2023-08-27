@@ -1,5 +1,5 @@
 ---
-title: Why a blog?
+title: Why a Blog?
 date: 2023-08-23
 description: "Writing can change yourself - and the world."
 tags:
