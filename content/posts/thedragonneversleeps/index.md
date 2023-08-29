@@ -9,7 +9,7 @@ tags:
 
 Glen Cook is a renonwed and profilic author of fantasy and science-fiction. 
 His series *'The Black Company'* and *'Garrett P.I.'* are best-selling classics. 
-His works also include the acclaimed *'The Dread Empire'*, *'Darkwar'* and *'Starfishers'* series.
+His work also include the acclaimed *'The Dread Empire'*, *'Darkwar'* and *'Starfishers'* series.
 
 Among this massive legacy stands as a true hidden masterpiece: *'[The Dragon Never Sleeps](https://nightshade.start-publishing.com/book/1407/the-dragon-never-sleeps/)'*. 
 
