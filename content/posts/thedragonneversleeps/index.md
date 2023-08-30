@@ -1,7 +1,7 @@
 ---
 title: The Best SF Book You've Never Heard of
 date: 2023-08-28
-description: "A hidden gem that challenges its readers"
+description: "A hidden gem that challenges its readers."
 tags:
    - pluralistic
 ---
