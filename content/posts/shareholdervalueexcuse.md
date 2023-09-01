@@ -34,9 +34,9 @@ Japanese companies constitue some of the notable exceptions.
 The Japanese culture has historically been more concerned with *serving customers* than extracting profits.
 Not surprisingly, from a capitalist point of view many Japanese are considered highly non-efficient (as evidenced, e.g., by their comparatively lower valuations).
  
-As a Western colleague recounted during my time living there: "I showed to my [Japanese] client that they could extract more value by adapting their pricing strategy. They answered that this would be unfair to their customers". You could see the incomprehension on my colleague's face when confronted with such an alien notion: Who in her right mind would choose not to extract additional profit from its customers? 
+As an occidental colleague recounted during my time living there: "I showed to my [Japanese] client that they could extract more value by adapting their pricing strategy. They answered that this would be unfair to their customers". You could see the incomprehension on my colleague's face when confronted with such an alien notion: Who in their right mind would choose not to extract additional profit from its customers? 
 
-Sadly, as Japan opens up to strategic consultancies some of their iconic companies launch restructuration programs, including layoffs, divestments, and other loss of employee benefits, as dictated by consultants looking to improve shareholder value (typical metrics include EPS or Earnings per Share, Enterprise Value, Return on Equity and the likes).[^1]
+Sadly, as Japan opens up to strategic consultancies some of their iconic companies are increasingly launching restructuration programs, including layoffs, divestments, and loss of employee benefits, as dictated by consultants looking to improve shareholder value (typical metrics include Earnings per Share, Enterprise Value, Return on Equity and the likes).[^1]
 
 There is even the deeper misconception that maximizing shareholder value is a fiduciary duty, even tough that is [*not* the case](https://www.nytimes.com/roomfordebate/2015/04/16/what-are-corporations-obligations-to-shareholders/corporations-dont-have-to-maximize-profits). 
 
@@ -48,12 +48,12 @@ Take IG Farben, a German chemical and pharmaceutical conglomerate.
 During World War II, Farben built Monowitz, its own private concentration camp to man its rubber factory. 
 IG Farben purchased 25,000 slaves from the Reich, among them as many children as possible (the Reich charged less for child slaves).
 Even by the standards of Nazi death camps, Monowitz conditions were inhuman. 
-Monowitz's prisoners were worked to death in just three months. 
+Monowitz's prisoners life expectancy was three months, and just one month for those working in the mines. 
 The conditions were *so brutal that the SS guards sent official complaints to Berlin*.[^2] 
 
 When 24 Farben executives were tried at Nuremberg, they argued that they had no choice but to pursue slave labor – it was *their duty to their shareholders*. 
 
-Even tough the Nuremberg trials did not recognise the fiduciary duty to maximise profit as a defence, [19 of these executives were nonetheless found non-guilty](https://en.wikipedia.org/wiki/IG_Farben_Trial) of slavery charges (but some were still charged on other accounts of plundering or conspiracy).
+Even tough the Nuremberg trials did not recognise the fiduciary duty to maximise profit as a defence, [19 of these executives were nonetheless found non-guilty](https://en.wikipedia.org/wiki/IG_Farben_Trial) of slavery charges (but some were still charged on accounts of plundering or conspiracy).
 
 Now this example is not yet another instance of Godwin's law. 
 Our current economy still runs on sweat-shops and [child labor](https://www.unicef.org/press-releases/child-labour-rises-160-million-first-increase-two-decades) to supply our cheap goods and maintain companies' margins.
