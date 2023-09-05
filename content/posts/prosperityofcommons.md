@@ -1,5 +1,5 @@
 ---
-title: The Prosperity of the Commons
+title: Prosperity of the Commons
 date: 2023-09-01
 description: "In contrast with the prevailing wisdom, the tragedy of the commons is not a fatality, and shared resources don't have to be either fully privatized or managed centrally by the state to avoid their overexploitation."
 tags:
