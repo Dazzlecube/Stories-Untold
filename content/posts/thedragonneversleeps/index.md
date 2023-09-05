@@ -21,13 +21,13 @@ My brain coudn't stop going back to its plot after I finished it.
 So why isn't it better known?
 
 I suspect one the reason is the style. 
-The style is concise and with very little description and hands-holding, which can leave the reader lost and confused (myself included the first time I read the book, especially as a non-native speaker). 
+The style is concise and with very little description and hand-holding, which can leave the reader lost and confused (myself included the first time I read the book, especially as a non-native speaker). 
 It's unclear tough whether this was by choice or the result of an editorial constraint - rumor has it that Glen Cook had to reduce the novel by 80,000 words for the publisher to accept the manuscript.
 
 Paradoxically, this also makes for one of the book's strength.
 
 This struck me this summer when I read it for the second time, in parallel with others SF books.
-Forget the not-so-sublte exposition where a character decides to explain in convenient details how his world functions. Instead, Cook's worldbuilding is emerging and organic. 
+Forget the not-so-subtle exposition where a character decides to explain in convenient details how his world functions. Instead, Cook's worldbuilding is emerging and organic. 
 And rather than lengthy descriptions and dialogues that don't add to the plot, tension, or character interactions, here every line counts. 
 
 As a reader this means you need to pay attention, be truly present, and actively engage with the world and story. 
