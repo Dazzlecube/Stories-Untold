@@ -7,7 +7,6 @@ tags:
 ---
 
 Capitalism is as much an economic system as a propaganda machine. 
-
 From the Tatcherism *"There Is No Alternative"* to the notion that markets are efficient, capitalism has managed to ingrain their ideas so profoundly in the public mind that they are never questioned.
 
 One of these 'self-evident' notion is the well-known "*Tragedy of the Commons*". 
