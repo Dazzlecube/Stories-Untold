@@ -1,5 +1,5 @@
 ---
-title: Setting inversion
+title: Setting Inversion
 date: 2023-09-06
 description: "Add depth to your RPG setting by introducing the notion of cultural inversion - a phenomenon that defined many historical societies."
 tags:
