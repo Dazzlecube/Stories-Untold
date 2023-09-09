@@ -1,6 +1,6 @@
 ---
 title: Blindfold computing
-date: 2017-09-01
+date: 2022-09-01
 description: "A new form of encryption allows you to compute with data you cannot read."
 tags:
    - extraordinaryphysics

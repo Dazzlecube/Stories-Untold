@@ -1,6 +1,6 @@
 ---
 title: Analog is more powerful than Digital
-date: 2018-02-01
+date: 2022-02-01
 description: "Computable physical equations can possess non-computable solutions."
 math: true
 tags:

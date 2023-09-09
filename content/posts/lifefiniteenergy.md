@@ -1,6 +1,6 @@
 ---
 title: Life in an ever-cooling universe
-date: 2018-01-01
+date: 2023-01-01
 description: "In an eternally expanding universe life might, at least in principle, endure forever."
 math: true
 tags:

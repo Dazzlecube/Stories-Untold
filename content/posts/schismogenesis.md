@@ -28,7 +28,7 @@ While Bateson explored this concept at the level of individuals, it has been ext
 > *'Schismogenesis describes how societies in contact with each other end up joined within a common system of differences, even as they attempt to distinguish themselves from one another. [...] Each society performs a mirror image of the other. In doing so, it becomes an indispensable alter ego, the necessary and ever-present example of what one should never wish to be.'* David Graeber and David Wengrow, The Dawn of Everything
 
 
-Cities and societies can distinguish themselves from one another along multiple dimensions, from art to administrative forms. Let's consider just a few examples: 
+Cities and societies can distinguish themselves from one another along multiple dimensions, from art to administrative systems. Let's consider a few examples: 
 
 - In the Fertile Crescent, the uplanders organized their artistic and ceremonial lives around the theme of predatory male violence, while the lowlanders tended to organize theirs around female knowledge and symbolism. 
 
@@ -39,11 +39,11 @@ Cities and societies can distinguish themselves from one another along multiple 
 - In Mesoamerica, Teotihuacan stands in stark contrast to other ancient kingdoms. Elements of royal display such as the ceremonial ball-court or the equivalent of Tikal's great tombs are conspicuously absent.[^2] 
 Art is also markedly different: Whereas Maya and Zapotec art favour curves and flowing forms, the sculpture of Teotihuacan shows humanoid figures as flat composites fitted to angular blocks. 
 
-In this last example, the contrasts are so pronounced that art historian Esther Pasztory argued that the highland Teotihuacan and the lowland Maya consitute a case of *conscious cultural inversion on the scale of urban civilizations*.
+In this last example, the contrasts are so pronounced that art historian Esther Pasztory argued that the highland Teotihuacan and the lowland Maya consitute a case of *conscious* cultural inversion *on the scale of urban civilizations*.
  
 Now you don't need to be an anthropologist to use the concept of schismogenesis in your RPG setting. 
-These examples already serve as a great source of inspiration to add texture and depth to your setting.
-But even more simply: What if, when traveling from one location to another, your players would encounter a city or society that stand for the opposite of what they are used to? What new stories could emerge? How would their characters react?
+The previous examples already serve as a great source of inspiration to add texture and depth to your setting.
+But even more simply: What if, when traveling from one location to another, your players were to encounter a city or society that stand for the opposite of what they are used to? What new stories could emerge? How would their characters react?
 
 **References and further reading**
 
@@ -56,7 +56,7 @@ But even more simply: What if, when traveling from one location to another, your
 [^1]: Athens is of course [not the first democratic instance](https://davidgraeber.org/articles/there-never-was-a-west-or-democracy-emerges-from-the-spaces-in-between/), and even then its democracy was all relative. The right to vote was reserved to its male citizens, excluding, among others, women, resident foreigners, and its slave population. 
 Athens was indeed a society built on slavery, with slaves consituting more than half its habitants in some periods.
 
-[^2]: Archaeologists have combed through the ancient tunnels around the Pyramids of the Sun and the Moon and under the Temple of the Feathered Serpent, only to discover that the passages lead to chthonic labyrinths and shrines: evocations of other worlds, no doubt, but not the graves of sacred rulers.
+[^2]: Archaeologists have combed through the ancient tunnels around the Pyramids of the Sun and the Moon and under the Temple of the Feathered Serpent, only to discover that the passages lead to chthonic labyrinths and shrines rather than the graves of sacred rulers.
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Finding the still spot
-date: 2018-06-01
+date: 2022-06-01
 description: "Fixed-point theorems have implications in the most unexpected places, from meteorology to cutting sandwiches."
 math: true
 tags:

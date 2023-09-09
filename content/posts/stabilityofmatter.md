@@ -1,6 +1,6 @@
 ---
 title: The Stability of Matter
-date: 2017-10-01
+date: 2022-10-01
 description: "Pauli Exclusion Principle prevents matter from collapsing - and exploding."
 math: true
 tags:

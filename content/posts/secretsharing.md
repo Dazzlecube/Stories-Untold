@@ -1,6 +1,6 @@
 ---
 title: How to share a secret
-date: 2018-05-01
+date: 2022-05-01
 description: "A secret S can be divided into n pieces in such a way that even complete knowledge of n – 1 pieces reveals no information about S."
 math: true
 tags:
