@@ -3,7 +3,7 @@ title: Making Scientific Papers Less Boring
 date: 2023-06-03
 description: "Many blogs manage to make technical content accessible and engaging. Why can't scientific articles be written more like blog posts?"
 tags:
-   - extraordinaryphysics
+   - pluralistic
 ---
 
 I enjoy the informal, free-form style that blogging allows. It's so much more engaging than most other material I'm reading or writing in my professional life. In that regard, scientific publications are especially bad. Between the formal tone, the pretense of neutrality, and the technical language (not to mention the terrible figures), reading a scientific paper requires intense concentration and is often just plain boring.
