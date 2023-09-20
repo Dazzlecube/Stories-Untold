@@ -1,5 +1,5 @@
 ---
-title: A trial for the ages
+title: A Trial for the Ages
 date: 2023-09-20
 description: "The ongoing Google trial might shape the future of antitrust enforcement for the rest of the decade."
 tags:
