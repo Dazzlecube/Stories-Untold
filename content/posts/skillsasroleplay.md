@@ -1,7 +1,7 @@
 ---
 title: Skills and Powers as Roleplay 
 date: 2023-09-26	
-description: "Can we imagine a game where every skill or power embed *roleplay or story* opportunities by design?"
+description: "Can we imagine a game where every skill or power embed roleplay or story opportunities by design?"
 tags:
    - designpatterns
 ---
