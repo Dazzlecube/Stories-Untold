@@ -1,7 +1,7 @@
 ---
 title: Skills and Powers as Roleplay 
 date: 2023-09-26	
-description: "Can we imagine a game where every skill or power embed roleplay or story opportunities by design?"
+description: "Can we imagine a RPG where every skill or power embed roleplay or story opportunities by design?"
 tags:
    - designpatterns
 ---
@@ -30,12 +30,12 @@ The first Charm in this style, "Open Palm Caress", casts the stylists as innocen
 
 Another *Black Claw* Charm, "Torn Defense Lotus", instills an attacker with a positive tie - think respect, admiration or even unexpected love (ties in Exalted describes important relationships and constitute a core component of its social mechanics).   
 
-This is insanely exciting.
+This is all insanely exciting.
 You immediatly get something different from your traditional "this power makes me a better melee or sorcerous" character. 
 This kind of Charm shapes your character's identity, behavior, and actions.
-What's more, each confrontation becomes a roleplay opportunity by design: How will the opponent react to being cast as the bad guy? How will you build on your perceived 'victim' status afterwards? 
+What's more, each confrontation becomes a roleplay opportunity by design: How will your opponent react to being cast as the bad guy? How will you build on your perceived 'victim' status afterwards? 
 
-Now, could we imagine a game where every skill or power has a similar, deep-layered impact on characters and roleplay opportunities?
+Now, could we imagine a RPG where every skill or power has a similar, deep-layered impact on characters and roleplay opportunities?
 This is a massive design effort for sure. But one I might be tempted to undertake given the potential reward.
 
 
