@@ -1,9 +1,10 @@
 ---
-title: "How to (not) model like a pro: A Climate-Economy system example"
+title: "How (not) to model like a pro"
 date: 2023-11-09
 description: "How plausible but flawed models hijacked climate policy."
 tags:
    - pluralistic
+   - extraordinaryphysics
 ---
 
 The first thing I learned as a new management consultant is to build analytic models to answer business questions.
