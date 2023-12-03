@@ -1,5 +1,5 @@
 ---
-title: Skills and Powers as Roleplay 
+title: Embedding Roleplay in Skills and Powers 
 date: 2023-09-26	
 description: "Can we imagine a RPG where every skill or power embed roleplay or story opportunities by design?"
 tags:
