@@ -45,7 +45,7 @@ This diversity of behavior is stunning (and the fact that this can be reproduced
 
 Importantly, these behaviors are not theoretical artifacts: neurons with these spiking patterns are observed in the brain. 
 What's more, these different spiking patterns play essential biological and computational roles. 
-Bursts or frequency adaptation, for instance, directly influence the probability of synapses being activated and thus learning mechanisms.
+Bursts or frequency adaptation, for instance, directly influence the probability of synapses being activated and thus our learning mechanisms.
 
 These neuronal dynamics adds a layer of complexity to understanding the brain, especially when combined together to form a recurrent network. 
 Nonetheless, the fact that our brain uses different types of neurons with different dynamical properties suggests that this complexity might be worth it when solving real-life tasks efficiently. 
@@ -53,3 +53,8 @@ Nonetheless, the fact that our brain uses different types of neurons with differ
 <br>
 
 [^1]: Neurons are typically described by multiple non-linear equations. Key variables include the membrane voltage and the conductance of the various ion channels. 
+
+
+
+
+
