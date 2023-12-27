@@ -98,6 +98,7 @@ This book really helped me see the potential of building a proper note system, a
 David Graeber is one of my favorite thinker of all time. 
 His ideas are always brilliant and his writing irreverent, which makes a powerful combination. 
 In *The Utopia of Rules*, Graeber offers a fascinating take on the role of bureaucracy, and how it's used to not only to kill creativity but to support structurally stupid systems.
+
 Read it for the provocative insights, and stay for the exploration of fantasy or super-hero stories as both opposing and validating bureaucratic regimes.
 
 ---
@@ -321,6 +322,8 @@ An honest and gripping recollection of her experience, which touches on many iss
 <img style="max-width: 100%; width: 240px; height: auto;" src="Fire_Story.jpg" width="{{ .Width }}" height="{{ .Height }}">
 </figure>
 
-A first-hand account of the author's and other families losing their homes to fires in California. 
+A first-hand account of the author and other families losing their homes to fires in California. 
 A sad reminder that our societies are not ready for these type of extreme events, which are likely to increase in frequency in the coming years.
 Improving our individual and collective resilience could go a long way as we brace ourselves for more natural disasters. 
+
+
