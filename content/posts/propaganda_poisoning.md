@@ -22,7 +22,7 @@ But one thing that I haven't seen mentioned in the discussions so far, is the ri
 Imagine the OpenAi's crawler got stuck in a loop of millions of self-generated (subtle or not) pro-Russia, neo-capitalist, or negationist pages instead? What will be the biases in the model's outputs?
 
 Such 'data poisoning' is already used by artists to protect their works from AI models. 
-Propaganda poisoning is probably already happening under the cover of government agencies.
+Propaganda poisoning is probably already happening under the cover of government agencies (for those who doubt online disinformation by governments is real, I highly recommend Maria Resa's memoir, [How to Stand Up to a Dictator](https://www.penguin.co.uk/books/446105/how-to-stand-up-to-a-dictator-by-ressa-maria/9780753559215)).
 
 We know that debiasing AIs is a difficult proposition, which will get more and more difficult as we scale them. So, with the ability to generate content at scale, we also get the risk of biases and disinformation at scale as more people use - and trust - ChatGTP and its cousins. 
 
