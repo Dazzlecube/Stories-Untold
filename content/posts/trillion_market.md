@@ -19,7 +19,7 @@ The point is that a trillion dollar market is a number that is non-informative a
 
 Large numbers are also used to hide that no one - especially consultants - have any ideas how the market or technology will evolve. It's just a way of saying "we think it's going to be big, so you should look at this".
 
-> *"If the dollar estimates seem laughably, incomprehensibly high, it means using money as a metric is, if not precisely wrong, at least desperately incomplete."* Deb Chabra, How infrastructure works.  
+> *"If the dollar estimates seem laughably, incomprehensibly high, it means using money as a metric is, if not precisely wrong, at least desperately incomplete."* Deb Chabra, How Infrastructure Works.  
 
 Consultants love numbers. It makes them look more serious and sophisticated. They also (wrongly) believe that large numbers will impress clients and move them to act. When Deb Chabra asked an industry expert to estimate the entire value of the GPS market, she declined to answer, saying only it was in the trillions, *"meaningless for anyone but a scholar"*.
 
