@@ -3,7 +3,7 @@ title: Propaganda poisoning
 date: 2024-04-17
 description: "With the ability to generate content at scale, we also get the risk of biases and disinformation at scale."
 tags:
-   - pluralistics
+   - pluralistic
 ---
 
 The debate around GenAI has been going round circles for a while now, and much better writers have commented on its usefulness, likely impact on society, and potential pitfalls along the way.
